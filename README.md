@@ -25,7 +25,7 @@ My goal is to solve complex problems where high-performance web interfaces meet 
 
 ## 📫 Contact
 * **GitHub:** zraza6
-* **LinkedIn:** [Raza Serafim](www.linkedin.com/in/raza-serafim-ioan-446242400)
+* **LinkedIn:** [www.linkedin.com/in/raza-serafim-ioan-446242400](https://www.linkedin.com/in/raza-serafim-ioan-446242400/)
 * **Email:** razaserafimioan05@gmail.com
 
 ---
