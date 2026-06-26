@@ -1,4 +1,4 @@
-# Hi there, I'm Serafim 👋
+# Hi there, I'm Raza Serafim-Ioan 👋
 
 ## 🚀 About Me
 I am an engineering student at the Technical University of Cluj-Napoca (UTCN), building systems that connect **software development, Artificial Intelligence, and real-world environmental data**.
