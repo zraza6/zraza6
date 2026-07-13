@@ -57,7 +57,6 @@ I am a highly driven continuous learner, always eager to take on new challenges 
 ### 🎮 Contribution Arcade
 
 <div align="center" style="border: 2px solid #30363d; padding: 20px; border-radius: 10px; background-color: #0d1117;">
-  <p><b>Playing:</b> Contributions Collector 🐍</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zraza6/zraza6/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zraza6/zraza6/output/github-contribution-grid-snake.svg">
