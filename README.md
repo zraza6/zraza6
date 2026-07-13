@@ -23,23 +23,6 @@ I am a highly driven continuous learner, always eager to take on new challenges 
 
 My goal is to solve complex problems where high-performance web interfaces meet spatial data and smart algorithms.
 
-### 🧠 What I Do & Tech Stack
-
-**Software & Web Engineering**
-* **Frontend Development:** Building responsive, high-performance interfaces (React, Vite, Tailwind CSS, HTML/CSS).
-* **Programming Languages:** C, C++, Java, TypeScript, JavaScript, Assembly, MATLAB.
-* **Backend & Environment:** Node.js, REST API integrations.
-
-**Artificial Intelligence & Geospatial Data**
-* **AI Integration:** Exploring LLMs and SLMs to automate complex data parsing and build smart, context-aware applications.
-* **Geospatial Analytics:** Working with Earth Observation (EO) data, Copernicus Data Space Ecosystem (CDSE) API, and Sentinel Hub.
-* **Algorithmic Modeling:** Integrating mathematical ROI models and advanced risk assessment protocols.
-
-### 🔭 Featured Projects
-
-* **Aqua Geo Flow:** A platform leveraging Copernicus Earth Observation data to address water accessibility. Initially developed during the 11th CASSINI Space for Water Hackathon.
-* **FIERCE Momentum Pilot:** Integrating mathematical ROI models for spatial-data-driven insurance optimization.
-
 ---
 
 ### 📬 Connect with Me
