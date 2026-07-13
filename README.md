@@ -17,7 +17,7 @@
 
 **CS & Engineering Student · Geospatial Data Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/raza-serafim-ioan-446242400)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raza-serafim-ioan-446242400)
 [![GitHub](https://img.shields.io/badge/GitHub-zraza6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zraza6)
 
 <br>
